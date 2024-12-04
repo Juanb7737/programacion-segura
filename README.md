@@ -1,6 +1,6 @@
 # EVA5
 
-1- crear un repositorio enb github
+1- crear un repositorio en github
 
 ```go
 import(

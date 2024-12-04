@@ -9,7 +9,7 @@ import(
 
 func main (){
 
-    fmt.Print("hola mundo")
+    fmt.Println("hola mundo")
 
 }
 ```
